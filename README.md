@@ -147,7 +147,7 @@ Ten projekt jest licencjonowany na warunkach licencji MIT - zobacz plik [LICENSE
 
 ## 📞 Kontakt i Wsparcie
 
-- 📧 Email: support@v-slot.pl
+- 📧 Email: shop@v-slot.pl | damian@v-slot.pl
 - 🌐 Strona: https://www.v-slot.pl/
 - 💬 Issues: [GitHub Issues](https://github.com/V-Slot-poland/Arduino_GRBL_Sterowanie_klawiszami/issues)
 
